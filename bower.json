@@ -1,0 +1,23 @@
+{
+  "name": "jquery-annotate",
+  "homepage": "https://github.com/hiebj/jquery-annotate",
+  "authors": [
+    "Jonathan Hieb"
+  ],
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hiebj/jquery-annotate.git"
+  },
+  "main": "jquery-annotate.js",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
