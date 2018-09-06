@@ -14,7 +14,7 @@
         options = options || {};
         var annotateFn = options.annotationRenderer || tagIdRenderer,
             detailsFn = typeof options.detailsRenderer !== 'undefined' ?
-                options.detialsRenderer : layoutRenderer,
+                options.detailsRenderer : layoutRenderer,
             annotatePseudoEls = options.pseudoEls;
         this.addClass('annotate');
         if (annotatePseudoEls) {
